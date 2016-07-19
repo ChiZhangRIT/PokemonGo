@@ -6,3 +6,4 @@ lakeOntario.gpx		Route on the trestle on Lake Ontario, located in Rochester, NY.
 wallanceCenter.gpx	Route around library of Rochester Institute of Technology. There are five Pokestop on the five-minute route. This is a good place to collect Pokeballs.
 # PokemonGo
 # PokemonGo
+# PokemonGo
