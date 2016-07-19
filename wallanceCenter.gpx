@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/43.0840282,-77.6755921/43.0840289,-77.6755908/@43.0841348,-77.6763152,19.5z/data=!4m9!4m8!1m5!3m4!1m2!1d-77.6769917!2d43.0840659!3s0x89d14c5fd07ceea3:0xce6dc935139d3b70!1m0!3e2?hl=en&hl=en</url-->
+    <time>2016-07-19T15:03:05Z</time>
+  </metadata>
+  <wpt lat="43.0840282" lon="-77.6755921">
+    <name>2 The Quarter Mile</name>
+    <desc>2 The Quarter Mile, Rochester, NY 14623, USA</desc>
+    <time>2016-07-19T15:03:05Z</time>
+  </wpt>
+  <wpt lat="43.084028" lon="-77.6755918">
+    <name>WP001</name>
+    <time>2016-07-19T15:03:42Z</time>
+  </wpt>
+  <wpt lat="43.0842595" lon="-77.6754182">
+    <name>WP002</name>
+    <time>2016-07-19T15:04:20Z</time>
+  </wpt>
+  <wpt lat="43.0842333" lon="-77.6767793">
+    <name>WP003</name>
+    <time>2016-07-19T15:04:57Z</time>
+  </wpt>
+  <wpt lat="43.0839308" lon="-77.6771867">
+    <name>WP004</name>
+    <time>2016-07-19T15:05:35Z</time>
+  </wpt>
+  <wpt lat="43.0843766" lon="-77.6769822">
+    <name>WP005</name>
+    <time>2016-07-19T15:06:12Z</time>
+  </wpt>
+  <wpt lat="43.0842333" lon="-77.6767793">
+    <name>WP006</name>
+    <time>2016-07-19T15:06:50Z</time>
+  </wpt>
+  <wpt lat="43.0842595" lon="-77.6754182">
+    <name>WP007</name>
+    <time>2016-07-19T15:07:27Z</time>
+  </wpt>
+  <wpt lat="43.0840289" lon="-77.6755908">
+    <name>2 The Quarter Mile</name>
+    <desc>2 The Quarter Mile, Rochester, NY 14623, USA</desc>
+    <time>2016-07-19T15:08:05Z</time>
+  </wpt>
+</gpx>

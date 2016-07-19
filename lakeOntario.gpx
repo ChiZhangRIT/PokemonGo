@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/43.2639865,-77.5988693/43.2567035,-77.6058893/43.2639866,-77.5988723/@43.2572105,-77.605992,19z/data=!4m50!4m49!1m10!3m4!1m2!1d-77.599884!2d43.2628823!3s0x89d6b78487b6c1bb:0x5518595a1216832d!3m4!1m2!1d-77.6012031!2d43.2614425!3s0x89d6b78487b6c1bb:0x5518595a1216832d!1m35!3m4!1m2!1d-77.6051388!2d43.2571463!3s0x89d6b79d0186a9a5:0x605395a85585c5b!3m4!1m2!1d-77.6043667!2d43.2579891!3s0x89d6b79ce6e26a5f:0x550d6a1c12e69b17!3m4!1m2!1d-77.6036864!2d43.2587317!3s0x89d6b78487b6c1bb:0x5518595a1216832c!3m4!1m2!1d-77.6030196!2d43.2594596!3s0x89d6b78487b6c1bb:0x5518595a1216832c!3m4!1m2!1d-77.6020804!2d43.2604849!3s0x89d6b78487b6c1bb:0x5518595a1216832c!3m4!1m2!1d-77.6004575!2d43.2622564!3s0x89d6b78487b6c1bb:0x5518595a1216832c!3m4!1m2!1d-77.5994162!2d43.2633929!3s0x89d6b78487b6c1bb:0x5518595a1216832c!1m0!3e2?hl=en&hl=en</url-->
+    <time>2016-07-19T15:28:02Z</time>
+  </metadata>
+  <wpt lat="43.2639865" lon="-77.5988693">
+    <name>Unnamed Road</name>
+    <desc>Unnamed Road, New York, USA</desc>
+    <time>2016-07-19T15:28:02Z</time>
+  </wpt>
+  <wpt lat="43.2639866" lon="-77.5988723">
+    <name>WP001</name>
+    <time>2016-07-19T15:31:47Z</time>
+  </wpt>
+  <wpt lat="43.2567035" lon="-77.6058893">
+    <name>WP002</name>
+    <time>2016-07-19T15:35:32Z</time>
+  </wpt>
+  <wpt lat="43.2583646" lon="-77.6040227">
+    <name>WP003</name>
+    <time>2016-07-19T15:39:17Z</time>
+  </wpt>
+  <wpt lat="43.2639866" lon="-77.5988723">
+    <name>Unnamed Road</name>
+    <desc>Unnamed Road, New York, USA</desc>
+    <time>2016-07-19T15:43:02Z</time>
+  </wpt>
+</gpx>
