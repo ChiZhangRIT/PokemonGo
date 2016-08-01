@@ -2,6 +2,8 @@
 
 These files are used for simulated walking in Pokemon Go. Details about spoofing GPS can be found [here](https://www.youtube.com/watch?v=9vqOWCNuZD4).
 
+**centralPark.gpx** Route around a pond in Central Park, NYC. You can reach lots of PokeStops along the route. Various Pokemons are up there.
+
 **lakeOntario.gpx** Route on the trestle on Lake Ontario, located in Rochester, NY. The common pokemons are aquatic (water type) including but not limited to Slowpoke, Seel, Krabby, Magikarp, Staryu, Horsea, Poliwag, Paras, Goldeen, Shellder and DRATINI. 
 
 **ritGym(1-5).gpx**: Gym locations at Rochester Institute of Technology.
