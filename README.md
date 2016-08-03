@@ -11,7 +11,7 @@ user_HP = 56            # int, current max HP <br />
 CP_per_powerup = 2500  	# int, stardust cost of a power up <br />
 powered = True           # bool, False = not powered it up
 
-Run the script to see possible IV combination. 
+Run the script to see possible IV combinations. 
 
 ### References
 

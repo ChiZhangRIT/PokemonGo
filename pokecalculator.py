@@ -93,18 +93,17 @@ def calculate_max_CP(baseAtk, indAtk, baseDef, indDef, baseSta, indSta, cpm):
 
 # IV calculation
 possible_IV = []
-for indAtk in range(0, 16):
-    for indDef in range(0, 16):
-        for indSta in range(0, 16):
-            for lv, cpm in get_level(CP_per_powerup):
-                
-                HP_check_result = check_HP(user_HP, baseSta[ind], indSta, cpm)
-                CP_check_result = check_CP(CP, baseAtk[ind], indAtk, baseDef[ind], indDef, baseSta[ind], indSta, cpm)
-                
-                if HP_check_result and CP_check_result:
-                    max_cp = calculate_max_CP(baseAtk[ind], indAtk, baseDef[ind], indDef, baseSta[ind], indSta, CPM[-1][-1])
-                    perfection = (indAtk + indDef + indSta) / 45.
-                    possible_IV.append([lv, indAtk, indDef, indSta, max_cp, np.around(perfection, decimals=2)])
+for indSta in range(0, 16):
+    for lv, cpm in get_level(CP_per_powerup):
+        HP_check_result = check_HP(user_HP, baseSta[ind], indSta, cpm)
+        if HP_check_result:
+            for indAtk in range(0, 16):
+                for indDef in range(0, 16):
+                    CP_check_result = check_CP(CP, baseAtk[ind], indAtk, baseDef[ind], indDef, baseSta[ind], indSta, cpm)
+                    if CP_check_result:
+                        max_cp = calculate_max_CP(baseAtk[ind], indAtk, baseDef[ind], indDef, baseSta[ind], indSta, CPM[-1][-1])
+                        perfection = (indAtk + indDef + indSta) / 45.
+                        possible_IV.append([lv, indAtk, indDef, indSta, max_cp, np.around(perfection, decimals=2)])
 
 # Output    
 print '\nAnalysis Result:'
